@@ -1,5 +1,57 @@
 {
     "Sunday 04th May May 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "16:00",
+                "event": "USAC Rich Vogler Classic Winchester Speedway's",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "178"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "2025 May Meltdown at Riverhead Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "179"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "ACT Community Bank 150 Thunder Road",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "180"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "2025 ARCA East at Nashville Fairgrounds Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "172"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "GCW: We Still Don't Trust You 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "153"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
