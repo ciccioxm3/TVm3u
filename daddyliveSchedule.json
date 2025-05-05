@@ -8926,6 +8926,10 @@
                         "channel_id": "580"
                     },
                     {
+                        "channel_name": "MATCH! Futbol 3 Russia",
+                        "channel_id": "138"
+                    },
+                    {
                         "channel_name": "Nova Sports Start Greece",
                         "channel_id": "637"
                     },
@@ -9488,7 +9492,7 @@
                         "channel_id": "412"
                     },
                     {
-                        "channel_name": "supersports Action",
+                        "channel_name": "Supersports Action",
                         "channel_id": "420"
                     }
                 ]
@@ -9510,6 +9514,14 @@
                     {
                         "channel_name": "L Equipe France",
                         "channel_id": "645"
+                    },
+                    {
+                        "channel_name": "Match TV Russia",
+                        "channel_id": "127"
+                    },
+                    {
+                        "channel_name": "beIN Sports MENA 9",
+                        "channel_id": "99"
                     },
                     {
                         "channel_name": "beIN Sports MENA English 2",
@@ -9568,6 +9580,10 @@
                         "channel_id": "128"
                     },
                     {
+                        "channel_name": "beIN Sports MENA 9",
+                        "channel_id": "99"
+                    },
+                    {
                         "channel_name": "beIN Sports MENA English 2",
                         "channel_id": "90"
                     }
@@ -9584,6 +9600,10 @@
                     {
                         "channel_name": "FOX Sports 2 USA",
                         "channel_id": "758"
+                    },
+                    {
+                        "channel_name": "RTP 1 Portugal",
+                        "channel_id": "719"
                     },
                     {
                         "channel_name": "L Equipe France",
@@ -10038,6 +10058,14 @@
                 "event": "VTB United League : Zenit Petersburg vs Lokomotiv Kuban",
                 "channels": [
                     {
+                        "channel_name": "\u041c\u0410\u0422\u0427! \u0421\u0422\u0420\u0410\u041d\u0410",
+                        "channel_id": "15"
+                    },
+                    {
+                        "channel_name": "MATCH! Igra Russia",
+                        "channel_id": "17"
+                    },
+                    {
                         "channel_name": "Arena Sport 2 Serbia",
                         "channel_id": "430"
                     }
@@ -10176,6 +10204,16 @@
                 ]
             },
             {
+                "time": "15:00",
+                "event": "Russia Superliga, Women : HC Lada Togliatti vs CSKA Moscow",
+                "channels": [
+                    {
+                        "channel_name": "\u041c\u0410\u0422\u0427! \u0421\u0422\u0420\u0410\u041d\u0410",
+                        "channel_id": "15"
+                    }
+                ]
+            },
+            {
                 "time": "17:00",
                 "event": "Serbia Super Liga, Women : \u017dORK Jagodina vs Zeleznicar",
                 "channels": [
@@ -10270,6 +10308,14 @@
                 "event": "KHL : Lokomotiv Yaroslavl vs Salavat Ufa",
                 "channels": [
                     {
+                        "channel_name": "KHL Tv",
+                        "channel_id": "16"
+                    },
+                    {
+                        "channel_name": "Match TV Russia",
+                        "channel_id": "127"
+                    },
+                    {
                         "channel_name": "Arena Sport 7 Serbia",
                         "channel_id": "942"
                     }
@@ -10277,7 +10323,7 @@
             },
             {
                 "time": "21:00",
-                "event": "2025 IIHF U18 Men's Hockey Championship : Bronze Medal : Slovakia vs United States",
+                "event": "2025 IIHF U18 Men's Hockey Championship : Bronze Medal : Slovakia vs. United States",
                 "channels": [
                     {
                         "channel_name": "TSN2",
@@ -10287,7 +10333,7 @@
             },
             {
                 "time": "00:00",
-                "event": "2025 IIHF U18 Men's Hockey Championship : Gold Medal : Canada vs Sweden",
+                "event": "2025 IIHF U18 Men's Hockey Championship : Gold Medal : Canada vs. Sweden",
                 "channels": [
                     {
                         "channel_name": "TSN2",
