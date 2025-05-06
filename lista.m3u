@@ -19,10 +19,10 @@ https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/132473395
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/869117599/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai", RAI 4
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2179822223/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/4241820180/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai", RAI 4 (2)
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/4241820180/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2179822223/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4k.it" tvg-name="RAI 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Rai", RAI 4K
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2049087681/index.m3u8
@@ -46,22 +46,22 @@ https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/374675593
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/294457245/index.m3u8
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai", RAI MOVIE
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1925964148/index.m3u8
-
-#EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai", RAI MOVIE (2)
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2835672487/index.m3u8
 
-#EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai", RAI NEWS 24
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2272923972/index.m3u8
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai", RAI MOVIE (2)
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1925964148/index.m3u8
 
-#EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai", RAI NEWS 24 (2)
+#EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai", RAI NEWS 24
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2239645272/index.m3u8
 
+#EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai", RAI NEWS 24 (2)
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2272923972/index.m3u8
+
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai", RAI PREMIUM
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2828455552/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2861734300/index.m3u8
 
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai", RAI PREMIUM (2)
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2861734300/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2828455552/index.m3u8
 
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="RAI SCUOLA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-scuola-it.png" group-title="Rai", RAI SCUOLA
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1886684667/index.m3u8
@@ -103,10 +103,10 @@ https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/608774683
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/80896559/index.m3u8
 
 #EXTINF:-1 tvg-id="canale5.it" tvg-name="CANALE 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset", CANALE 5
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1101559666/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1534161807/index.m3u8
 
 #EXTINF:-1 tvg-id="canale5.it" tvg-name="CANALE 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset", CANALE 5 (2)
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1534161807/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1101559666/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE 34 MEDIASET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset", CINE 34 MEDIASET
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1768670187/index.m3u8
@@ -208,10 +208,10 @@ https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/309353533
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1989309231/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="SKY SPORT GOLF" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport", SKY SPORT GOLF
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/729945219/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/3897711086/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="SKY SPORT GOLF" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport", SKY SPORT GOLF (2)
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/3897711086/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/729945219/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportmax.it" tvg-name="SKY SPORT MAX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport", SKY SPORT MAX
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2066326916/index.m3u8
@@ -238,10 +238,10 @@ https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/210077178
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/78546677/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportuno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport", SKY SPORT UNO
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/3192996672/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/210669162/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportuno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport", SKY SPORT UNO (2)
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/210669162/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/3192996672/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport", SKY SPORTS F1
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2289038972/index.m3u8
@@ -319,22 +319,22 @@ https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/142139311
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1482866609/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (2)
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaaction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV", SKY CINEMA ACTION (3)
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemacollectionhd.it" tvg-name="SKY CINEMA COLLECTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film & Serie TV", SKY CINEMA COLLECTION
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/3525837057/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film & Serie TV", SKY CINEMA COMEDY
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/500203271/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/3131104474/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemacomedy.it" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film & Serie TV", SKY CINEMA COMEDY (2)
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/3131104474/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/500203271/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemadrama.it" tvg-name="SKY CINEMA DRAMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film & Serie TV", SKY CINEMA DRAMA
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1235530177/index.m3u8
@@ -349,10 +349,10 @@ https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/233057472
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1078650168/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV", SKY CINEMA FAMILY
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/415795144/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/3216516117/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film & Serie TV", SKY CINEMA FAMILY (2)
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/3216516117/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/415795144/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV", SKY CINEMA ROMANCE
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m3u8
@@ -367,19 +367,19 @@ https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/182099755
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/3060043751/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV", SKY CINEMA UNO
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2872151911/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1759625738/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film & Serie TV", SKY CINEMA UNO (2)
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1759625738/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2872151911/index.m3u8
 
 #EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="SKY CINEMA UNO +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film & Serie TV", SKY CINEMA UNO +24
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1699876530/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 1
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1944682394/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1492183364/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 1 (2)
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1492183364/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1944682394/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 10
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/4272937805/index.m3u8
@@ -418,10 +418,10 @@ https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/573618724
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/153693434/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 4
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/3137990890/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2416993844/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 4 (2)
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2416993844/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/3137990890/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV", SKY PRIMAFILA 5
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2255083866/index.m3u8
@@ -502,19 +502,19 @@ https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/337351024
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/3841982646/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini", CARTOON NETWORK
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1289777017/index.m3u8
-
-#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini", CARTOON NETWORK (2)
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1744435623/index.m3u8
 
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini", CARTOON NETWORK (2)
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1289777017/index.m3u8
+
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1987220436/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO (2)
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2178717282/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini", CARTOONITO (3)
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1987220436/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2178717282/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini", DISCOVERY K2
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/3037871903/index.m3u8
@@ -556,10 +556,10 @@ https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/355484191
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2113273064/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari", DISCOVERY NOVE
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1574591400/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2651461317/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari", DISCOVERY NOVE (2)
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2651461317/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1574591400/index.m3u8
 
 #EXTINF:-1 tvg-id="historyhd.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari", HISTORY
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/317837654/index.m3u8
@@ -748,10 +748,10 @@ https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/152723692
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2381583828/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro", CIELO
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2719953688/index.m3u8
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro", CIELO (2)
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2719953688/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/3743894403/index.m3u8
 
 #EXTINF:-1 tvg-id="cine34.it" tvg-name="CINE 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Altro", CINE 34
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/62558606/index.m3u8
@@ -823,10 +823,10 @@ https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/298255043
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/3439223610/index.m3u8
 
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro", FOOD NETWORK
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2820683351/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2767861049/index.m3u8
 
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro", FOOD NETWORK (2)
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2767861049/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2820683351/index.m3u8
 
 #EXTINF:-1 tvg-id="france24.it" tvg-name="FRANCE 24" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/france-24-fr.png?raw=true" group-title="Altro", FRANCE 24
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2179686828/index.m3u8
@@ -961,10 +961,10 @@ https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/295288464
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1232565681/index.m3u8
 
 #EXTINF:-1 tvg-id="realtime.it" tvg-name="REAL TIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro", REAL TIME
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1574975196/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2251241999/index.m3u8
 
 #EXTINF:-1 tvg-id="realtime.it" tvg-name="REAL TIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro", REAL TIME (2)
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2251241999/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1574975196/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="REGGIO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro", REGGIO TV
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2165549789/index.m3u8
@@ -973,10 +973,10 @@ https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/216554978
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/3075118500/index.m3u8
 
 #EXTINF:-1 tvg-id="rete4.it" tvg-name="RETE 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Altro", RETE 4
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2235732004/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/4198218214/index.m3u8
 
 #EXTINF:-1 tvg-id="rete4.it" tvg-name="RETE 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Altro", RETE 4 (2)
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/4198218214/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2235732004/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RETE ORO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkE5wuUMIVAtANMfpSL4T5bIO73owXBhpvEg&s" group-title="Altro", RETE ORO
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/3351863213/index.m3u8
@@ -1030,10 +1030,10 @@ https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/200236050
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2895549551/index.m3u8
 
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro", SKY UNO
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/322024849/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2130523218/index.m3u8
 
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro", SKY UNO (2)
-https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/2130523218/index.m3u8
+https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/322024849/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR COMEDY" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/star-comedy-pt.png?raw=true" group-title="Altro", STAR COMEDY
 https://nzo66-piccolotest.hf.space/proxy/m3u?url=https://vavoo.to/play/1512072384/index.m3u8
