@@ -4408,6 +4408,16 @@
                 "channels": []
             },
             {
+                "time": "12:30",
+                "event": "Ukraine Premier League : Zorya Luhansk vs Shakhtar Donetsk",
+                "channels": [
+                    {
+                        "channel_name": "UPLTV",
+                        "channel_id": "9000"
+                    }
+                ]
+            },
+            {
                 "time": "13:00",
                 "event": "Israel - Liga Leumit : Bnei Yehuda vs Hapoel Kfar Saba",
                 "channels": [
@@ -4504,6 +4514,16 @@
                 "time": "15:00",
                 "event": "Lithuania - 1 Lyga : Babrungas vs Nevezis",
                 "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "Ukraine Premier League : Polissya Zhytomyr vs Dynamo Kyiv",
+                "channels": [
+                    {
+                        "channel_name": "UPLTV",
+                        "channel_id": "9000"
+                    }
+                ]
             },
             {
                 "time": "15:30",
@@ -5738,6 +5758,354 @@
                 "time": "23:00",
                 "event": "West indies - T20 Blaze (F) : Windward Islands (F) vs Barbados (F)",
                 "channels": []
+            }
+        ],
+        "ATP - ROME</span>": [
+            {
+                "time": "09:00",
+                "event": "ATP - ROME : Burruchaga R. A. vs Khachanov K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "09:00",
+                "event": "ATP - ROME : Fils A. vs Griekspoor T.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "09:00",
+                "event": "ATP - ROME : Dimitrov G. vs Passaro F.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    }
+                ]
+            },
+            {
+                "time": "09:00",
+                "event": "ATP - ROME : Thompson J. vs Nakashima B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1514"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - ROME : Popyrin A. vs Taberner C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1514"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "ATP - ROME : Muller A. vs Tsitsipas S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "ATP - ROME : Lajovic D. vs Alcaraz C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - ROME : Humbert U. vs Moutet C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1516"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - ROME : Michelsen A. vs Djere L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "ATP - ROME : Norrie C. vs Medvedev D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "ATP - ROME : Musetti L. vs Virtanen 0.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - ROME : Comesana F. vs Rune H.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1511"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "ATP - ROME : Kopriva V. vs Baez S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - ROME : Shapovalov D. vs Gaubas V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1512"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - ROME : Draper J. vs Darderi L.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "ATP - ROME : Ugo Carabelli C. vs Zverev A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            }
+        ],
+        "WTA - ROME</span>": [
+            {
+                "time": "09:00",
+                "event": "WTA - ROME : Pavlyuchenkova A. vs Kenin S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "09:00",
+                "event": "WTA - ROME : Sakkari M. vs Linette M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "09:00",
+                "event": "WTA - ROME : Sabalenka A. vs Potapova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - ROME : Noskova L. vs Kartal S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - ROME : Frech M. vs Azarenka V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "10:30",
+                "event": "WTA - ROME : Volynets K. vs Tauson C.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1505"
+                    }
+                ]
+            },
+            {
+                "time": "11:00",
+                "event": "WTA - ROME : Danilovic 0. vs Zheng Q.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - ROME : Alexandrova E. vs Raducanu E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1515"
+                    }
+                ]
+            },
+            {
+                "time": "12:00",
+                "event": "WTA - ROME : Kudermetova V. vs Anisimova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "WTA - ROME : Arango E. vs Andreeva M.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - ROME : Fernandez L. vs Ruzic A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "13:30",
+                "event": "WTA - ROME : Kostyuk M. vs Kasatkina D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "WTA - ROME : Navarro E. vs Rakhimova K.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - ROME : Andreescu B. vs Vekic D.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "WTA - ROME : Rybakina E. vs Lys E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1504"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "WTA - ROME : Gauff C. vs Mboko V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
             }
         ],
         "Tennis</span>": [
