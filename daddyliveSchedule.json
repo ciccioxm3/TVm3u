@@ -4214,8 +4214,32 @@
             },
             {
                 "time": "19:00",
+                "event": "France - Ligue 1 : Angers vs Strasbourg",
+                "channels": [
+                    {
+                        "channel_name": "DAZN France",
+                        "channel_id": "181"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "France - Ligue 1 : Toulouse vs Lens",
+                "channels": [
+                    {
+                        "channel_name": "DAZN France",
+                        "channel_id": "182"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
                 "event": "France - Ligue 1 : Reims vs Saint-\u00c9tienne",
                 "channels": [
+                    {
+                        "channel_name": "DAZN France",
+                        "channel_id": "183"
+                    },
                     {
                         "channel_name": "beIN Sports 1 France",
                         "channel_id": "116"
@@ -4227,6 +4251,10 @@
                 "event": "France - Ligue 1 : Auxerre vs Nantes",
                 "channels": [
                     {
+                        "channel_name": "DAZN France",
+                        "channel_id": "184"
+                    },
+                    {
                         "channel_name": "beIN Sports MENA Xtra 1",
                         "channel_id": "100"
                     }
@@ -4236,6 +4264,10 @@
                 "time": "19:00",
                 "event": "France - Ligue 1 : Le Havre vs Marseille",
                 "channels": [
+                    {
+                        "channel_name": "DAZN France",
+                        "channel_id": "185"
+                    },
                     {
                         "channel_name": "Arena Sport 9 Croatia",
                         "channel_id": "157"
@@ -4259,6 +4291,10 @@
                 "event": "France - Ligue 1 : Rennes vs Nice",
                 "channels": [
                     {
+                        "channel_name": "DAZN France",
+                        "channel_id": "189"
+                    },
+                    {
                         "channel_name": "Arena Sport 10 Croatia",
                         "channel_id": "24"
                     },
@@ -4272,6 +4308,10 @@
                 "time": "19:00",
                 "event": "France - Ligue 1 : Montpellier vs PSG",
                 "channels": [
+                    {
+                        "channel_name": "DAZN France",
+                        "channel_id": "190"
+                    },
                     {
                         "channel_name": "Sport TV3 Portugal",
                         "channel_id": "454"
@@ -4303,6 +4343,10 @@
                 "event": "France - Ligue 1 : Brest vs Lille",
                 "channels": [
                     {
+                        "channel_name": "DAZN France",
+                        "channel_id": "191"
+                    },
+                    {
                         "channel_name": "Arena Sport 8 Croatia",
                         "channel_id": "25"
                     },
@@ -4316,6 +4360,10 @@
                 "time": "19:00",
                 "event": "France - Ligue 1 : Monaco vs Lyon",
                 "channels": [
+                    {
+                        "channel_name": "DAZN France",
+                        "channel_id": "192"
+                    },
                     {
                         "channel_name": "DAZN2 DE",
                         "channel_id": "427"
