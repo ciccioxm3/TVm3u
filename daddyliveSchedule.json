@@ -866,8 +866,8 @@
                         "channel_id": "474"
                     },
                     {
-                        "channel_name": "ESPN2 Argentina",
-                        "channel_id": "150"
+                        "channel_name": "ESPN Argentina",
+                        "channel_id": "149"
                     },
                     {
                         "channel_name": "SuperSport Football",
@@ -2341,6 +2341,18 @@
                     {
                         "channel_name": "Supersports Action",
                         "channel_id": "420"
+                    }
+                ]
+            }
+        ],
+        "GOLF</span>": [
+            {
+                "time": "23:00",
+                "event": "GOlf : Live From the PGA Championship",
+                "channels": [
+                    {
+                        "channel_name": "Golf Channel",
+                        "channel_id": "318"
                     }
                 ]
             }
