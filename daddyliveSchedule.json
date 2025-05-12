@@ -2977,6 +2977,16 @@
         ],
         "Handball</span>": [
             {
+                "time": "16:15",
+                "event": "Norway Eliteserien Women : Tertnes HE Bergen vs. Sola HK",
+                "channels": [
+                    {
+                        "channel_name": "TV2 Sport 2 Norway",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
                 "time": "16:30",
                 "event": "Denmark Women's League : HC Odense vs. HH Elite",
                 "channels": [
