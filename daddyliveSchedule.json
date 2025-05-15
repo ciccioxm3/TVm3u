@@ -1,5 +1,37 @@
 {
     "Thursday 15th May 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "22:00",
+                "event": "2025 CARS Tour at North Wilkesboro Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "OVW Live #1344",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "23:15",
+                "event": "2025 Lucas Oil Late Model Dirt Series at Eagle Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "68"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:30",
