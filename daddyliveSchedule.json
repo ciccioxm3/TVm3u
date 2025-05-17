@@ -5823,6 +5823,16 @@
                 "channels": []
             },
             {
+                "time": "10:00",
+                "event": "Ukraine Premier League : Zorya vs Polessya",
+                "channels": [
+                    {
+                        "channel_name": "UPLTV",
+                        "channel_id": "9000"
+                    }
+                ]
+            },
+            {
                 "time": "10:30",
                 "event": "Poland - II Liga : Hutnik Krak\u00f3w vs Polonia Bytom",
                 "channels": [
