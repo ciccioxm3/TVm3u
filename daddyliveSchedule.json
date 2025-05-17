@@ -1,5 +1,117 @@
 {
     "Saturday 17th May 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "16:00",
+                "event": "SENSHI 26 Gladiators",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "193"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "BRAVE CF 94: Dailidko vs. Delaney",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "183"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "Bushido Frankfurt PPV",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "184"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "2025 Kubota High Limit Racing at Utica-Rome Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "164"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "2025 Lucas Oil Late Model Dirt Series at Eagle Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "2025 ARCA East at Flat Rock Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "166"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "2025 USAC Huncovsky Classic at Belleville Short Track",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "167"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "2025 USAC Avanti Western States Midgets at Santa Maria Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "168"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "MarvNation Promotions Boxing : Fernando Vargas Jr vs Gonzalo Gaston Coria",
+                "channels": [
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "169"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "GCW In Maryland 2025",
+                "channels": [
+                    {
+                        "channel_name": "Triller Tv",
+                        "channel_id": "170"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "360 Promotions : Serhii Bohachuk vs. Mykal Fox",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "171"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "12:00",
@@ -947,7 +1059,7 @@
                 "channels": [
                     {
                         "channel_name": "ESPN 2 NL",
-                        "channel_id": "385"
+                        "channel_id": "386"
                     }
                 ]
             },
@@ -4469,6 +4581,14 @@
                     {
                         "channel_name": "DAZN PPV",
                         "channel_id": "109"
+                    },
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "181"
+                    },
+                    {
+                        "channel_name": "DAZN PPV",
+                        "channel_id": "182"
                     }
                 ]
             },
